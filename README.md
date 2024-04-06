@@ -1,6 +1,6 @@
 # CPEN-211
 
-CPEN 211: Introduction to Microcomputers in 2023W1 session with Professor Miesko Aamodt
+CPEN 211: Introduction to Microcomputers in 2023W1 session with Professor Tor Aamodt
 
 This repository holds lab code written by Noah Seo.
 
